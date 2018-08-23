@@ -1,12 +1,10 @@
 # Cyberscope
 
-Microsite for CyberscopeTV app
+Microsite for Chatterbox Livestream app
 
-Site can be viewed here (https://www.cyberjobscope.com)
+Site can be viewed here (https://www.chatterbox.com)
 
-This site will be the main gateway for the newly rebranded CyberscopeTV Android app; an IOS version is pending.
-
-Separate pages for Training and Jobs in EU GDPR.
+This site will be the main gateway for the new iOS Chatterbox Livestream app.
 
 ## Built With
 
